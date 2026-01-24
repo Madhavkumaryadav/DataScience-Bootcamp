@@ -1,0 +1,6 @@
+1. Create a loggin in your code 
+2. create one functiion which can take any number of input as an argument and it will be above to return sum of it 
+
+3. capture user input in log 
+4. give user instruction in log file 
+5. read a log file from python code and show all the logging can solve 

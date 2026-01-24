@@ -1,0 +1,8 @@
+ 2026-01-25 01:38:05,717 root INFO This is my first test code for log 
+2026-01-25 01:38:05,720 Logger1.area1 INFO This is info for logger one
+2026-01-25 01:38:05,722 Logger2.area3 DEBUG thisis a debug for logger two
+2026-01-25 01:38:05,723 Logger2.area3 INFO this is info for logger two 
+2026-01-25 01:38:37,414 root INFO This is my first test code for log 
+2026-01-25 01:38:37,417 Logger1.area1 INFO This is info for logger one
+2026-01-25 01:38:37,421 Logger2.area2 DEBUG this is a debug for logger two
+2026-01-25 01:38:37,421 Logger2.area2 INFO this is info for logger two 

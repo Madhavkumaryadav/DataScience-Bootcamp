@@ -1,0 +1,6 @@
+2026-01-25 00:41:00,134 This is info log
+2026-01-25 00:41:00,134 This is the warning log
+2026-01-25 00:41:00,134 This is the error log
+2026-01-25 00:41:00,134 This is the critical log 
+2026-01-25 00:41:00,134 This is the exception log 
+NoneType: None

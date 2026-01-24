@@ -1,0 +1,45 @@
+2026-01-25 00:08:43,321 THis is my first code for the logging 
+2026-01-25 00:08:43,321 I'm going to started with the logging 
+2026-01-25 00:08:43,367 This is the First Warning of my Program so modify 
+2026-01-25 00:08:43,384 This is the message of the Error 
+2026-01-25 00:14:03,398 Error has occured
+2026-01-25 00:14:03,399 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Madhav Yadav\AppData\Local\Temp\ipykernel_7656\1470242736.py", line 3, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2026-01-25 00:15:05,863 Error has occured
+2026-01-25 00:15:05,864 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Madhav Yadav\AppData\Local\Temp\ipykernel_7656\209674926.py", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2026-01-25 00:15:49,125 Error has occured
+2026-01-25 00:15:49,125 'int' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\Madhav Yadav\AppData\Local\Temp\ipykernel_7656\3215181473.py", line 3, in test
+    lg.INFO(str(a),str(b))
+TypeError: 'int' object is not callable
+2026-01-25 00:16:30,407 Error has occured
+2026-01-25 00:16:30,408 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Madhav Yadav\AppData\Local\Temp\ipykernel_7656\209674926.py", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2026-01-25 00:19:37,150 4,0
+2026-01-25 00:19:37,151 Error has occured
+2026-01-25 00:19:37,151 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Madhav Yadav\AppData\Local\Temp\ipykernel_7656\3862884656.py", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2026-01-25 00:20:32,250 Your Input is numenitor : 4, and denumenitor : 0
+2026-01-25 00:20:32,251 Error has occured
+2026-01-25 00:20:32,251 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Madhav Yadav\AppData\Local\Temp\ipykernel_7656\4250743148.py", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2026-01-25 00:21:03,711 Your Input is numenitor : 4, and denumenitor : 9
+2026-01-25 00:22:00,565 Your Input is numenitor : 4, and denumenitor : 9
+2026-01-25 00:22:00,567 Your result is 0.4444444444444444

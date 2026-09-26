@@ -1,0 +1,8 @@
+tensorflow 
+numpy 
+pandas 
+streamlit 
+scikit-learn 
+pickle 
+matplotlib 
+tenso

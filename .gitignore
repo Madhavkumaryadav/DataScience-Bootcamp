@@ -2,3 +2,4 @@ venv
 nlpvenv
 .vscode
 .ipynb_checkpoints
+ann_venv
